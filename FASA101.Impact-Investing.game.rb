@@ -2,6 +2,7 @@ puts ("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 puts ("  Welcome to Financial Activism: 101   ")
 puts ("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 puts ("")
+puts ("John was here")
 
 puts "What is your name?"
 name = gets.chomp
